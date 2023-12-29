@@ -1,1 +1,1 @@
-# Covid-19_World_Dashboard
+# Russia_losses_equipment_in_war
